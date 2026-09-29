@@ -1,0 +1,8 @@
+node_modules
+.env
+credentials.json
+token.json
+processed-ids.json
+results.csv
+trashed-*.csv
+.DS_Store
